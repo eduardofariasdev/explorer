@@ -10,6 +10,6 @@
 
 <div align="center">
 
-Clique **[aqui](https://eduardofariasdev.github.io/explorer/stage02/aula02/)** para abrir a página no seu navegador.
+Clique **[aqui](https://eduardofariasdev.github.io/explorer/stage02/aula01/)** para abrir a página no seu navegador.
 
 </div>
